@@ -1,0 +1,25 @@
+{
+    "systemInstruction": {
+    "parts": [
+      {
+        "text": "Réponds toujours en une seul phrase"
+      }
+    ]
+  },
+    "candidates"  : [
+        {
+            "content" : {
+                "parts" :  [
+                    {"text" : "Qu'est-ce que PHP ?"}
+                ],
+                "role" : "user" ,
+
+                "parts2" : [
+                    {"text" : "PHP est un langage de script côté serveur utilisé pour le développement web."}
+                ],
+                "role2" : "model"
+            }
+        }
+    ]
+    
+}
